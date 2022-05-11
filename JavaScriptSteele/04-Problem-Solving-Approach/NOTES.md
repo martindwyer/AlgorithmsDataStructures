@@ -61,6 +61,7 @@
 <li>Think about the code you will write - before you write it.</li>
 <li>Be careful to catch conceptual issues or misunderstandings.</li>
 <li>Don't be concerned with coding language or syntax.</li>
+<li>Carefully written steps should define the logical flow of code (pseudo code)</li>
 <li>After steps in writing: <ul><li>Use logical tools like flow charts or UML diagrams.</li></ul></li>
 </ol>
 
