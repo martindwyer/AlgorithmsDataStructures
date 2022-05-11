@@ -2,8 +2,7 @@
 <p>A course taught by Colt Steele</p>
 <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">course link</a>
 
-<h2>Section 2</h2>
-<h3>Big O Notation</h3>
+<h2>Section 2: Big O Notation</h2>
 
 <h3>Timing code issues:</h3>
 
