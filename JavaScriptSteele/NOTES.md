@@ -11,6 +11,8 @@
 3.  For fast algorithms, speed measurements may not be precise enough.
 
 <h3>The solution:</h3> 
-- Count the number of simple operations required.
-- addUpTo(n) => n \* (n + 1) / 2 => has three operations
-- addUpToN(n) => 5n + 1
+<ul>
+<li>Count the number of simple operations required.</li>
+<li>addUpTo(n) => n \* (n + 1) / 2 => has three operations</li>
+<li>addUpToN(n) => 5n + 1</li>
+</ul>
